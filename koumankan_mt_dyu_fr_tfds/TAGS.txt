@@ -1,0 +1,5 @@
+content.data-type.text # Contains text data.
+content.language.fr # Contains text in language French / fr.
+ml.task.sequence-to-sequence-language-modeling # Relates to Sequence To Sequence Language Modeling, a machine learning task.
+ml.task.sequence-to-sequence-language-modelling # Relates to Sequence to Sequence Language Modelling, a machine learning task.
+ml.task.text-generation # Relates to Text Generation, a machine learning task.
